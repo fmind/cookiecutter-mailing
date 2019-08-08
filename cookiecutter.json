@@ -1,0 +1,9 @@
+{
+    "name": "mailing",
+    "user": "anonymous",
+    "author": "Anonymous",
+    "email": "{{cookiecutter.user}}@gmail.com",
+    "host": "smtp.gmail.com",
+    "port": "465",
+    "security": "SSL/TLS"
+}
